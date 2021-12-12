@@ -1,0 +1,42 @@
+{
+  "products": [
+    {
+      "cod": 1,
+      "title": "Notebook",
+      "category": "Informática",
+      "description": "Com designs icônicos, jogos de alto desempenho, proporciona experiências imersivas.",
+      "image": "https://picsum.photos/id/0/300/130"
+    },
+    {
+      "cod": 2,
+      "title": "Volkswagen Kombi",
+      "category": "Veículos",
+      "description": "Um veículo comercial que foi produzido pela Volkswagen, entre 1950 e 2013.",
+      "image": "https://picsum.photos/id/183/300/130"
+    },
+    {
+      "cod": 3,
+      "title": "Máquina fotográfica",
+      "category": "Eletrônicos",
+      "description": "Combinando um zoom de longo alcance com desempenho de imagem.",
+      "image": "https://picsum.photos/id/531/300/130"
+    },
+    {
+      "cod": 4,
+      "title": "Camisetas",
+      "category": "Vestuário",
+      "description": "Camisetas de malha com estampas exclusivas. Produzidas no Brasil.",
+      "image": "https://picsum.photos/id/535/300/130"
+    },
+    {
+      "cod": 4,
+      "title": "Mesa e cadeiras",
+      "category": "Móveis",
+      "description": "Conjunto de mesa e cadeiras com alta durabilidade e com um design bem arrojado.",
+      "image": "https://picsum.photos/id/625/300/130"
+    }
+  ],
+  "cart": [
+ 
+  ]
+}
